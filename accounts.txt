@@ -1,6 +1,1 @@
-email.googel.com,password
-email.googel.com，password
-email.googel.com，password
-email.googel.com，password
-email.googel.com，password
-
+dcabangen@gmail.com,Cabangen211#
